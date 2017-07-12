@@ -1,5 +1,5 @@
 #Script Powered by Amarant0s
-#Script to copy files and folders using sftp protocol
+#Script to copy files and folders using sftp protocol & Execute commands.
 import paramiko
 import sys
 import time
